@@ -29,4 +29,4 @@ The main aim is to provide an efficient and beginner-friendly projects that woul
 * If you want to contribute the algorithm, it's preferrable that you create a new issue before making a PR and link your PR to that issue.
 * If you have modified/added code work, make sure the code compiles before submitting.
 * Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
-* Do not update the **[README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md).**
+* Do not update the **[README.md](https://github.com/theanshulcode/Machine-Learning-Projects/blob/main/README.md).**
