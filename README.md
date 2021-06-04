@@ -19,7 +19,7 @@ The main aim is to provide an efficient and beginner-friendly projects that woul
 
 - Then in Github, in your cloned repository find the option to make a pull request 
 
-> print("Start contributing for ML-ProjectKart")
+> print("Start contributing for Machine Learning Projects")
 
 
 <h2>⚙️ Things to Note</h2>
