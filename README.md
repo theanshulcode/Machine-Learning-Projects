@@ -3,7 +3,7 @@
 
 <h2>📌Repository</h2>
 
-This kart showcases the finest collection of all projects based on machine learning, deep learning, computer vision, natural language processing and everything. Indulge in this journey of open source.
+This repository showcases the finest collection of all projects based on machine learning, deep learning, computer vision, natural language processing and everything. Indulge in this journey of open source.
 
 The main aim is to provide an efficient and beginner-friendly projects that would help you in mastering the ML/AI algorithms and make you familiar. Turn yourself into pro with all the hands-on that got you covered.
 
