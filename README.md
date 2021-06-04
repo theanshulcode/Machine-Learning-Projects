@@ -39,3 +39,11 @@ This project follows the [MIT LICENSE](https://github.com/theanshulcode/Machine-
 <h2>🙂 Project Admin</h2>
 
 <a href="https://github.com/theanshulcode"><img src="https://github.com/theanshulcode/theanshulcode/blob/main/Anshul%20Photo.jpg" width=150px height=150px /></a>
+
+<h2>⭐Give this Project a Star</h2>
+
+[![GitHub followers](https://img.shields.io/github/followers/theanshulcode.svg?label=Follow%20@theanshulcode&style=social)](https://github.com/theanshulcode)  [![Instagram Follow](https://img.shields.io/instagram/follow/__a.n.s.h.u.l.__?style=social)](https://www.instagram.com/__a.n.s.h.u.l.__/)
+
+If you liked working on this project, do ⭐ and share this repository.
+
+🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
