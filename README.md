@@ -30,3 +30,12 @@ The main aim is to provide an efficient and beginner-friendly projects that woul
 * If you have modified/added code work, make sure the code compiles before submitting.
 * Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
 * Do not update the **[README.md](https://github.com/theanshulcode/Machine-Learning-Projects/blob/main/README.md).**
+
+<h2>📝 License</h2>  
+
+This project follows the [MIT LICENSE](https://github.com/theanshulcode/Machine-Learning-Projects/blob/main/LICENSE).
+
+
+<h2>🙂 Project Admin</h2>
+
+<a href="https://github.com/theanshulcode"><img src="https://github.com/theanshulcode/theanshulcode/blob/main/Anshul%20Photo.jpg" width=150px height=150px /></a>
