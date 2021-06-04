@@ -42,7 +42,7 @@ This project follows the [MIT LICENSE](https://github.com/theanshulcode/Machine-
 
 <h2>⭐Give this Project a Star</h2>
 
-[![GitHub followers](https://img.shields.io/github/followers/theanshulcode.svg?label=Follow%20@theanshulcode&style=social)](https://github.com/theanshulcode)  [![Instagram Follow](https://img.shields.io/instagram/follow/__a.n.s.h.u.l.__?style=social)](https://www.instagram.com/__a.n.s.h.u.l.__/)
+[![GitHub followers](https://img.shields.io/github/followers/theanshulcode.svg?label=Follow%20@theanshulcode&style=social)](https://github.com/theanshulcode)  
 
 If you liked working on this project, do ⭐ and share this repository.
 
