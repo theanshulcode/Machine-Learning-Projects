@@ -31,6 +31,16 @@ The main aim is to provide an efficient and beginner-friendly projects that woul
 * Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
 * Do not update the **[README.md](https://github.com/theanshulcode/Machine-Learning-Projects/blob/main/README.md).**
 
+<h2>💡Look Through The Kart Of Amazing Projects</h2>
+
+| S.no | Project Name | Description |
+| --------------- | --------------- | --------------- |
+|     1.    |  [Exploratory Data Analysis Of Meteorological Data](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Data%20Analysis%20of%20Meteorological%20Data)  |   It analyzes the meteorological weather data of last 10yrs from 2006 to 2016 at Finland to check an increase of global warming.   |
+|     2.    |  [Stock Price Predictor](https://github.com/theanshulcode/Machine-Learning-Projects/tree/main/Stock%20Price%20Predictor)  |   The challenge of this project is to accurately predict the future closing value of a given stock across a given period of time in the future. For this project I have used a Long Short Term Memory networks – usually just called “LSTMs” to predict the closing price of the S&P 500 using a dataset of past prices   |
+|     3.    |  [Real Time Face Recognition](https://github.com/theanshulcode/Machine-Learning-Projects/tree/main/Real%20Time%20Face%20Recognition)  |      |
+|     4.    |  [Customer Segmentation Analysis Using ML](https://github.com/theanshulcode/Machine-Learning-Projects/tree/main/Customer%20Segmentation%20Analysis)  |   The Customer Segmentation has been done using K Means Clustering. Customer segmentation is the process of dividing customers into groups based on common characteristics so that companies can market to each group effectively and appropriately.   |
+
+
 <h2>📝 License</h2>  
 
 This project follows the [MIT LICENSE](https://github.com/theanshulcode/Machine-Learning-Projects/blob/main/LICENSE).
