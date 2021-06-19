@@ -13,11 +13,11 @@ The main aim is to provide an efficient and beginner-friendly projects that woul
 
 - Clone your forked repository using terminal or gitbash.
 
-- Make changes to the cloned repository
+- Make changes to the cloned repository.
 
-- Add, Commit and Push
+- Add, Commit and Push.
 
-- Then in Github, in your cloned repository find the option to make a pull request 
+- Then in Github, in your cloned repository find the option to make a pull request.
 
 > print("Start contributing for Machine Learning Projects")
 
