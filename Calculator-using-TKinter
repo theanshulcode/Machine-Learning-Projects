@@ -1,0 +1,64 @@
+import tkinter as tk
+from tkinter import *
+from tkinter import messagebox
+m=tk.Tk()
+e=StringVar()
+ans=0
+exp=" "
+def enter(num):
+    global exp
+    exp=exp+str(num)
+    e.set(exp)
+def clear():
+    global exp
+    exp=" "
+    e.set(exp)
+def cal():
+    try:
+        global ans
+        ans=eval(exp)
+        e.set(ans)
+    except:
+        e.set("ERROR")
+m.geometry('275x350')  
+m.configure(bg="Grey")
+m.title("Calculator")
+#l = tk.Label(m,text='Calculator',font=('Jokerman',20,'bold'),bg="Grey
+#l.place(x=80,y=10)
+num=IntVar()
+a=tk.Entry(m,textvariable=e,font=('Comic Sans MS',25))
+a.place(x=1,y=1,width=270)
+b1=tk.Button(m,text="1",command=lambda:enter("1"),font=('Comic Sans MS',20,'bold'),width=3)
+b2=tk.Button(m,text="2",command=lambda:enter("2"),font=('Comic Sans MS',20,'bold'),width=3)
+b3=tk.Button(m,text="3",command=lambda:enter("3"),font=('Comic Sans MS',20,'bold'),width=3)
+b4=tk.Button(m,text="4",command=lambda:enter("4"),font=('Comic Sans MS',20,'bold'),width=3)
+b5=tk.Button(m,text="5",command=lambda:enter("5"),font=('Comic Sans MS',20,'bold'),width=3)
+b6=tk.Button(m,text="6",command=lambda:enter("6"),font=('Comic Sans MS',20,'bold'),width=3)
+b7=tk.Button(m,text="7",command=lambda:enter("7"),font=('Comic Sans MS',20,'bold'),width=3)
+b8=tk.Button(m,text="8",command=lambda:enter("8"),font=('Comic Sans MS',20,'bold'),width=3)
+b9=tk.Button(m,text="9",command=lambda:enter("9"),font=('Comic Sans MS',20,'bold'),width=3)
+b0=tk.Button(m,text="0",command=lambda:enter("0"),font=('Comic Sans MS',20,'bold'),width=3)
+bp=tk.Button(m,text="+",command=lambda:enter("+"),font=('Comic Sans MS',20,'bold'),width=3)
+bs=tk.Button(m,text="-",command=lambda:enter("-"),font=('Comic Sans MS',20,'bold'),width=3)
+bm=tk.Button(m,text="*",command=lambda:enter("*"),font=('Comic Sans MS',20,'bold'),width=3)
+bd=tk.Button(m,text="/",command=lambda:enter("/"),font=('Comic Sans MS',20,'bold'),width=3)
+bequ=tk.Button(m,text="=",command=lambda:cal(),font=('Comic Sans MS',20,'bold'),width=2)
+bclear=tk.Button(m,text="Clear",command=lambda:clear(),font=('Comic Sans MS',20,'bold'),width=4)
+b1.place(x=5,y=60)
+b2.place(x=70,y=60)
+b3.place(x=135,y=60)
+b4.place(x=5,y=130)
+b5.place(x=70,y=130)
+b6.place(x=135,y=130)
+b7.place(x=5,y=200)
+b8.place(x=70,y=200)
+b9.place(x=135,y=200)
+b0.place(x=5,y=270)
+bp.place(x=200,y=60)
+bs.place(x=200,y=130)
+bm.place(x=200,y=200)
+bd.place(x=200,y=270)
+bequ.place(x=152,y=270)
+bclear.place(x=70,y=270)
+
+m.mainloop
